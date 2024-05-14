@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904775313860",
+    "project_id": "ticcketapp-bb4e1",
+    "storage_bucket": "ticcketapp-bb4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904775313860:android:555a30566180ccdb391c91",
+        "android_client_info": {
+          "package_name": "com.example.ticcketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzS7Akbd-Eo5__y5npakU4dYRGV8RSdDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
